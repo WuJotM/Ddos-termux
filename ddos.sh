@@ -1,4 +1,3 @@
-GNU nano 7.0             V-DdoS.py
 print ("\033[91m")
 import sys
 import os
